@@ -6,5 +6,12 @@
 
 mat-drawer {
   width: 260px;
+  /* COLOR 1 */
   background-color: #0f172a;
+  /* background-color: #0D47A1; */
+  /* background-color: #424242; */
+}
+
+mat-drawer-container {
+  height: 100%;
 }
