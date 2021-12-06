@@ -4,13 +4,6 @@
   background: #f1f5f9;
 }
 
-.page__box {
-  min-height: 100px;
-	background: #2c3344;
-  margin: 0 -1rem;
-  font-size: 36px;
-}
-
 .page__content {
   min-height: calc(100vh - 140px);
   border-radius: 10px;

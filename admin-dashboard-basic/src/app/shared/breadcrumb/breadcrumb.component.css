@@ -1,0 +1,6 @@
+.page__box {
+  min-height: 100px;
+	background: #2c3344;
+  margin: 0 -1rem;
+  font-size: 36px;
+}
