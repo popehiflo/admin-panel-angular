@@ -18,6 +18,7 @@ import { HeaderComponent } from './shared/header/header.component';
 import { SidenavComponent } from './shared/sidenav/sidenav.component';
 import { HomeComponent } from './pages/home/home.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
+import { BreadcrumbComponent } from './shared/breadcrumb/breadcrumb.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { DashboardComponent } from './pages/dashboard/dashboard.component';
     HeaderComponent,
     SidenavComponent,
     HomeComponent,
-    DashboardComponent
+    DashboardComponent,
+    BreadcrumbComponent
   ],
   imports: [
     BrowserModule,
